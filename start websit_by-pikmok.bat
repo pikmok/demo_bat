@@ -1,4 +1,6 @@
 title start_websit_by-pikmok 
+@echo ff 
+cls
 @echo off
 setlocal
 :PROMPT
