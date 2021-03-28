@@ -18,4 +18,3 @@ start %web%
 :END
 endlocal
 #ping %ip_addr% -l 65500 -w 1 -n 5	
-
